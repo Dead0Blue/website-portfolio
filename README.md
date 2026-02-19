@@ -31,4 +31,4 @@ npx vercel --prod
 ```
 
 ---
-*Built with ❤️ by [Adam Ammour](https://github.com/Dead0Blue)*
+*Built by [Adam Ammour](https://github.com/Dead0Blue)*
